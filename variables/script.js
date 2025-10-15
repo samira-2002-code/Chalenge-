@@ -1,0 +1,11 @@
+const prompt = require("prompt-sync")();
+var nom=prompt ("entrer votre nom")
+var prenom=prompt("entrer votreprenom")
+var age =prompt("entrer votre age")
+var sex=prompt("entrer cotre sex")
+var numerodetelephone=prompt("entrer votre numero de telephone")
+console.log(nom)
+console.log(prenom)
+console.log(age)
+console.log(sex)
+console.log(numerodetelephone)
